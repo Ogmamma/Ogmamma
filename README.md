@@ -8,6 +8,7 @@
     <img src="https://skillicons.dev/icons?i=c,javascript,typescript,php,lua,html,css,sass,wordpress,mysql,vscode" />
   </a>
 </p>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ogmamma&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
