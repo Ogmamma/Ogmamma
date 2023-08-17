@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects<br>👯 I’m happy to collaborate in web development projects<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Javascript and C
+🔭 I’m currently working on personal projects<br>👯 I’m happy to collaborate in web development projects<br>🌱 I’m currently learning C#<br>💬 Ask me about Javascript and C
 
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,javascript,typescript,php,lua,html,css,sass,wordpress,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,php,mysql,html,css,sass,wordpress,git,visualstudio,vscode" />
   </a>
 </p>
 
