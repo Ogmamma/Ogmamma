@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,php,mysql,html,css,sass,wordpress,git,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,javascript,php,mysql,html,css,sass,wordpress,git" />
   </a>
 </p>
 
