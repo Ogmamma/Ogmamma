@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [optika martin](https://github.com/Ogmamma/optika-martin-wordpress)<br>👯 I’m happy to collaborate in web development projects<br>🌱 I’m currently learning C#<br>💬 Ask me about Javascript and C
+🔭 I’m currently working on [optika martin](https://github.com/Ogmamma/optika-martin-wordpress)<br>👯 I’m happy to collaborate in web development projects<br>🌱 I’m currently learning C#<br>
 
 
 # 💻 Tech Stack:
